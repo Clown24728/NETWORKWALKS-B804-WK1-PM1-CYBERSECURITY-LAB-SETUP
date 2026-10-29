@@ -217,7 +217,7 @@ This laboratory is intended strictly for education purposes only.
 
 ---
 
-# 🔗 Tools & Resources
+# 🔗 Tools    
 
 - **UTM:**
 - **Kali Linux:**
